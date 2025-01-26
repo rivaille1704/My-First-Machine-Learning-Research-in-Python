@@ -2,6 +2,7 @@
 I have implemented 4 Machine Learning algorithms on 2 datasets.
 
 Some terminology:
+
   Precision (P): Measures how many of the predicted positive instances (spam or ham) are actually correct. A high precision means fewer false positives.
 
   Recall (R): Measures how many of the actual positive instances were correctly identified by the model. A high recall means fewer false negatives.
