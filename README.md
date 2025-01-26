@@ -1,5 +1,5 @@
 # My-First-Machine-Learning-Research-in-Python
-I have implemented 4 Machine Learning algorithms on 2 datasets
+I have implemented 4 Machine Learning algorithms on 2 datasets.
 Some terminology:
   Precision (P): Measures how many of the predicted positive instances (spam or ham) are actually correct. A high precision means fewer false positives.
 
